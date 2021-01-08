@@ -3,8 +3,6 @@
 This is a basic app that allows a user to change the color of text to a predefined color
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="Codepath_Hello_App.gif" width=200><br>
 
 ### Required User Stories
